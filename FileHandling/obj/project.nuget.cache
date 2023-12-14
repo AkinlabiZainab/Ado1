@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dthDV0z6bLKVJeGoXNCseQ/BYOCs67UW/JPJi96A3I62pbqRg2wXwGNFrC6Kw+kF86YLMk8KfPMFPntpGCRkKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp Elitebook\\OneDrive\\Desktop\\StudentMgtApp\\FileHandling\\FileHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp Elitebook\\.nuget\\packages\\nlog\\5.2.3\\nlog.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
